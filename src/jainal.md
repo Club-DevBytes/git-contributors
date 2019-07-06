@@ -1,4 +1,4 @@
 ---
 username: jainal09
-fullname: Jainal Gosaliya 
+fullname: Jainal Gosaliya
 ---
